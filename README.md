@@ -1,2 +1,2 @@
 # ScalaDevelopment
-Implementations for common programming problems
+Implementations for common programming problems in Scala
